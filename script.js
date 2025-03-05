@@ -12,8 +12,8 @@ const messages = [
         image: "https://i.pinimg.com/736x/1e/7c/6f/1e7c6ff7a0c26f7eaefbce683656193d.jpg"
     },
     {
-        text: "pls klik yg kiri",
-        image: "https://i.pinimg.com/736x/90/73/a9/9073a9359bff531cd830ae7384752934.jpg"
+        text: "pls klik yg kiri dong",
+        image: "https://drive.google.com/file/d/1yghi08aTzc_xgb6A0-TsuzCmVlOf4n9l/view?usp=drivesdk"
     },
     {
         text: "terakhir, kalo \"no\" yauda deh",
@@ -121,7 +121,7 @@ function getFarPosition(containerRect, windowWidth, windowHeight, buttonWidth, b
 }
 
 yesBtn.addEventListener('click', () => {
-    title.innerHTML = "HORE!! i knew you would say vqsghvwegdsbjs";
+    title.innerHTML = "HORE!!thanks micell,i knew you would say vqsghvwegdsbjs";
     document.querySelector('img').src = "https://media.tenor.com/gUiu1zyxfzYAAAAi/good-night-kiss-kiss.gif";
     noBtn.style.display = 'none';
     yesBtn.style.display = 'none';
